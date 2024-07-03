@@ -1,0 +1,132 @@
+{
+  "name": "Fajar",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Fajar Muslim - curious",
+  "headerTaglineThree": "Machine Learning Engineer",
+  "headerTaglineFour": "Based in Boyolali, Indonesia.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/chetanverma16"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/chetanverma7/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/realchetanverma"
+    },
+    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "5", "title": "Email", "link": "mailto:fajarmuslimfjr@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project One Test",
+      "description": "Web Design",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "2",
+      "title": "Project Two",
+      "description": "Web Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "description": "Design",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Project Four",
+      "description": "Marketing",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "Project Five",
+      "description": "Development",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "6",
+      "title": "Project Six",
+      "description": "Design & Development",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Natural Language Processing",
+      "description": "Leveraging advanced algorithms and machine learning techniques to understand, interpret, and generate human language in a valuable way, including tasks like sentiment analysis, language translation, and chatbots."
+    },
+    {
+      "id": "2",
+      "title": "Data Science",
+      "description": "Utilizing statistical methods, algorithms, and technology to extract insights from structured and unstructured data, aiding in informed decision-making and strategic planning."
+    },
+    {
+      "id": "3",
+      "title": "Data Analyst",
+      "description": "Analyzing and interpreting complex data sets to identify trends, patterns, and actionable insights that drive business decisions and improve operational efficiency."
+    },
+    {
+      "id": "4",
+      "title": "ML Deployment",
+      "description": "Implementing machine learning models into production environments, ensuring they operate efficiently, scale effectively, and provide accurate predictions or classifications in real-world applications."
+    }
+  ],
+  "aboutpara": "I am highly motivated to learn new things, get challenges from it and share my findings with others. Professionally, I have working in AI Engineer position for more than 1 years. Doing software engineering project and leading several person from various background, e.g: backend engineer, frontend engineer, UI/UX, DevOps engineer. My passion is developing solutions to enhance productivity for human life.",
+  "resume": {
+    "tagline": "👋  I'm a machine learning engineer, data scientist/analyst.",
+    "description": "I have delivered machine learning solutions in two unicorns. Well-versed with Python, MLOps, Deep Learning, Scikit-learn, and lot of the ML frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "December 2022 - May 2024",
+        "type": "Full Time",
+        "position": "Machine Learning Engineer at eFishery",
+        "bullets": "Working on fraud team and data engineering team, Create chatbot on Retrieval Augmented Generator utilizing generative AI to answer the user question, Implement data versioning control (dvc), Maintain internal tools for data science team, Deploy ML models to production; mostly with FastAPI; Streamlit; and Airflow, Held training for data science teams to improve their engineering skills on git; docker; mlflow; etc., ML model monitoring, Streamlit (website) for ML model demo; visualization;  and setup google auth for streamlit, Data pipeline; feature store; API for ML serving, Nomad data processing executor with docker; in order to separate the data processing from airflow scheduler, Tech stack: python; AWS; GCP; SQL; virtual machine; reverse ETL; docker; nomad; mlflow; airflow; fastapi; dvc; jupyter hub; airflow; streamlit; evidently AI."
+      },
+      {
+        "id": "2",
+        "dates": "May 2022 - November 2022",
+        "type": "Full Time",
+        "position": "Machine Learning Engineer at Tiket.com",
+        "bullets": "Create language detection model, Serving language detection model with asynchronous manner (master and worker), Develop API on master side for one of NLP project, Create dashboard in kibana to monitor the error and traceback, Image similarity project, Doing Proof of Concept on NVIDIA TensorRT to increase image prediction performance, Doing benchmarking on MySQL vs MongoDB, Tech stack: gcs; google pubsub; docker; falcon; kibana; pytorch"
+      },
+      {
+        "id": "3",
+        "dates": "November 2020 - May 2022",
+        "type": "Part Time",
+        "position": "AI Engineer at Tiket.com",
+        "bullets": "Building text similarity services: comparing some of text to vector embedding library and measuring the similarity between text; then building a service using fast-api and docker. , Data profiling and validation: exploring the great-expectations package to be used for data profiling; data validation; and generating html report based on validation, Containerize data preprocessing: containerize preprocessing stage using docker; automatically create an MR when data are done preprocessed, Training config with hydra: configuring the training of ML model by utilizing hydra configuration package. , Data scraping: scrape data from various sources; unified these data schema. Build the parser and airflow DAG. , Exploratory Data Analysis: gain better understanding related to data and report the insight for future improvement. Handling data anomaly; e.g: outliers; wrong data format; etc, Exploring 3rd party data provider API, Feature Selection: exploring the feature selections method to improve current model, Feature Importance: explore various feature importance tools to provide an insight; which the features having more importance and take out less importance feature, Custom objective function: modify the loss function in our ML model to get the better what we expect from the model. , Dataset Sampling: experimenting with sampling the dataset with the same distribution with the full data to get the fast feedback rather than training full data. , ML Modeling: experiment with new ML model; increasing the past model with around 4% improvement, ML Model Serving: exploring the bentoML framework to serve ML model; building custom artifact for the model which doesn't supported yet by bentoML, Model Explanability: explore the ML model explanability tools, Recommendation systems: explore the open source collaborative filtering recommendations systems (BiVAE), Tech stack: python; fastapi; great-expectations; hydra; CI/CD; docker; airflow; sklearn; ML model; beautifoul soup; SHAP; bentoML; collaborative filtering"
+      }
+    ],
+    "education": {
+      "universityName": "Institut Teknologi Bandung",
+      "universityDate": "2017-2022",
+      "universityPara": "Bachelor and Master Informatics (Bachelor GPA 3.54 / Master GPA 3.80)"
+    },
+    "languages": ["Python", "Java", "Javascript", "Go"],
+    "frameworks": ["Pytorch", "Tensorflow", "Huggingface", "Scikit-learn", "DVC", "FastAPI"],
+    "others": ["Docker", "Virtual Machine", "AWS", "Databases"]
+  }
+}
